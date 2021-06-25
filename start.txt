@@ -5,6 +5,7 @@ public class Wawa{
 	public void waInfo(){
 		if("蛙蛙".equals(waName)){
 		int a = 10;
+		double b =20.00;
 		System.out.println(waName);}
 	}
 }
