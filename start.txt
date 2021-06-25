@@ -4,7 +4,7 @@ public class Wawa{
 
 	public void waInfo(){
 		if("蛙蛙".equals(waName)){
-
+		int a = 10;
 		System.out.println(waName);}
 	}
 }
