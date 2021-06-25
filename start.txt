@@ -3,6 +3,8 @@ public class Wawa{
 	private Integer waAge;
 
 	public void waInfo(){
-		System.out.println(waName);
+		if("蛙蛙".equals(waName)){
+
+		System.out.println(waName);}
 	}
 }
