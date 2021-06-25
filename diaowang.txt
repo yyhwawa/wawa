@@ -3,4 +3,5 @@ public void test(){
 	sout.”wang";
 	sout."蛙蛙工厂";
 	sout."王叼“；
+	sout."就这”;
 }
