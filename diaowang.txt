@@ -2,4 +2,5 @@ public void test(){
 	sout."我就是凋亡之王";
 	sout.”wang";
 	sout."蛙蛙工厂";
+	sout."王叼“；
 }
